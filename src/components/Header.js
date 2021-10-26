@@ -19,7 +19,7 @@ const Header = () => {
           textAlign: "center",
         }}
       >
-        To Dos
+        minimalists
       </h1>
     </header>
   )
